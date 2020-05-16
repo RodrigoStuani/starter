@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title>Introduction Js</title>  
+</head>
+<body>
+  <script>
+    function intervaloNumeroPar(x,y) {      
+      var pares = [];
+      while (x <= y) {
+        if (x % 2 == 0) {
+          pares.push(x);    
+        }            
+        x++;
+      }
+      return pares; 
+    }
+    var exibirNumeroPar = intervaloNumeroPar(32,321);
+    console.log(exibirNumeroPar);                              
+  </script>
+</body>
+</html>

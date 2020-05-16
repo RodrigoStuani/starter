@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>Introduction Js</title>  
+</head>
+<body>
+  <script>
+    function temHabilidade(skills) {
+      var element = 'React Native';
+      if (skills.indexOf(element) > -1) {
+        return true;    
+      } else if (skills.indexOf(element) === -1) {      
+        return false;
+      }
+    }
+    var skills = ["NodeJs", "Javascript", "ReactJS", "React Native"];      
+    console.log(temHabilidade(skills));                              
+  </script>
+</body>
+</html>
