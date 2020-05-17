@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <meta content="charset=UTF-8">
+        <title>Exercícios</title>
+    </head>
+    <body>
+        <h2>3º exercício</h2>
+        <div id="head">
+            <p>A partir do seguinte vetor:</p>
+                <div id="headExemple" style="background-color: darkgrey">
+                    <p> var nomes = ["Diego", "Gabriel", "Lucas"]; </p>
+                </div>
+            <p>Preencha uma lista ( "<'ul'>" ) no HTML com os itens da seguinte forma: <br>
+                ● Diego <br>
+                ● Gabriel <br>
+                ● Lucas <br>
+            </p>
+        </div>  
+        <div>
+            <h1>Mostrar lista de nomes</h1>
+        </div>           
+        <script>            
+            let names = ["Rodrigo Stuani", "Andy Irons", "Gabriel Medina", "Kelly Slater"]; // cria vetor com os nomes para ser inseridos na ul.
+            let bodyElement = document.body; // cria na DOM a tag body para adicionar a lista dos nomes
+            let clutteredListElement = document.createElement('ul'); // Cria elemento ul.                        
+            for (let iIdx = 0; iIdx < names.length; iIdx++) { // percorre o vetor dos nomes para inserir na lista de itens.
+                let ListItem = document.createElement('li'); // cria a lista de intens para os nomes.
+                let textElement = document.createTextNode(names[iIdx]); // cria texto onde os nome serão gravados na lista. 
+                ListItem.appendChild(textElement); // adiciona na lista de itens o textos inseridos.
+                clutteredListElement.appendChild(ListItem); // adiciona a lista desordenada na lista de itens.        
+                bodyElement.appendChild(clutteredListElement); // adiciona no body a lista dos nomes dentro da tag <ul>.       
+            }
+        </script>
+    </body>
+</html>
