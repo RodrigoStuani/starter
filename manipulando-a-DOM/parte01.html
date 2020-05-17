@@ -1,0 +1,24 @@
+<!-- primeira parte sobre - eventos inline -->
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Curso Javascript Starter rumo Bootcamp</title>
+    </head>
+    <body>
+        <div id="app">
+            <input onkeypress="mostrarAlertaDiferente()" placeholder="Insira algo !!" />
+            <button onclick="mostrarAlerta()">Me pressione por favor</button>
+            <br> <br>
+            <button onmouseover="mostrarAlertaDiferente()">Passe com o mouse por favor</button>
+        </div>
+
+        <script>
+            function mostrarAlerta() {                
+                alert('Botão clicado com sucesso!');            
+            }
+            function mostrarAlertaDiferente() {
+                alert('Você conseguiu !!');
+            }
+        </script>
+    </body>
+</html>

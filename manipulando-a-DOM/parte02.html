@@ -1,0 +1,39 @@
+<!-- segunda parte sobre - Trabalhando com a DOM -->
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Trabalhando com a DOM</title>
+    </head>
+    <body>
+        <div id="app">
+            <input type="text" name="nome" placeholder="Inserção" />
+            <!-- # Conhecendo o querySelector e querySelectorAll 
+                <input type="text" name="nome2" placeholder="Inserção 02" /> -->
+            
+            <!-- #trabalhando com getElementByTagName pelo input 
+                  como é um vetor, caso tenha mais de um input na mesma
+                  div utilizar [] - ex.:
+                    document.gerElementByTagName('input')[0]. 
+                 <input type="text" name="nome" id="nome" class="nome" placeholder="Inserção" />   
+                 <button class="botao">Adicionar</button>-->
+            <button class="botao">Adicionar</button>
+        </div>
+
+        <script>
+            //var inputElement = document.getElementsByTagName('input');
+            //var inputElement = document.querySelector('body div#app input'); navegando pela DOM com o selector retornando um unico elemento.
+            //var inputElement = document.querySelector('input[name=nome]'); navegando diretamente pelo objeto requerido. 
+            //var inputElement = document.querySelectorAll('input'); navegando por todos os elementos do html
+            //console.log(inputElement);
+            
+            // manipulando o botão, input pela DOM direto pelo Js sem sujar o html.
+            var btnElement = document.querySelector('button.botao');
+            var inputElement = document.querySelector('input[name=nome]');
+            btnElement.onclick = function() {
+                var text = inputElement.value;
+
+                alert(text);
+            }    
+        </script>
+    </body>
+</html>
