@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <meta content="charset=UTF-8">
+        <title>Exercícios</title>
+    </head>
+    <body>
+        <h2>1º exercício</h2>
+        <div id="cabecalho" style="background-color: darkorange">
+        <p>Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
+            vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
+            aparecer na tela.</p>
+        </div>      
+        <button class="botao" id="btnQuadrado" onclick="gerarQuadrado()">Mostrar Quadrado</button> 
+        <button id="btnRemoveQuadrado">Remover Quadrado</button>       
+        <div id="quadrado">
+            <br>
+            <br>
+            <div class="boxQuadradoVermelho"></div>
+        </div>
+        
+        <script>     
+            function gerarQuadrado() {
+                let quadradoVermelho = document.createElement('div');
+                quadradoVermelho.id = "removeQuadrado";
+                quadradoVermelho.style.width = 100;
+                quadradoVermelho.style.height = 100;
+                quadradoVermelho.style.backgroundColor = '#f00';    
+
+                quadradoVermelho.classList.add('boxQuadradoVermelho');            
+
+                document.body.appendChild(quadradoVermelho);
+            }                     
+        </script>
+    </body>
+</html>
