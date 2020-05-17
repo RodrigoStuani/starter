@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <meta content="charset=UTF-8">
+        <title>Exercícios</title>
+    </head>
+    <body>
+        <h2>2º exercício</h2>
+        <div id="cabecalho" style="background-color: darkorchid">
+        <p>Utilizando o resultado do primeiro desafio, toda vez que o usuário passar o mouse por cima de
+            algum quadrado troque sua cor para uma cor aleatória gerada pela função abaixo:</p>
+        </div>      
+        <button id="btnQuadrado">Mostrar Quadrado</button>     
+        <div id="quadrado">
+            <br>
+            <br>
+        </div>
+        
+        <script>            
+            let btnBoxNewElement = document.getElementById('btnQuadrado');
+            let boxElement = document.getElementById('quadrado');
+            
+            btnBoxNewElement.onclick = function() {
+                let quadradoVermelho = document.createElement('div');
+                quadradoVermelho.style.width = 100;
+                quadradoVermelho.style.height = 100;
+                quadradoVermelho.style.backgroundColor = '#f00';                
+
+                boxElement.onmouseover = function() {
+                    quadradoVermelho.style.backgroundColor = getRamdonColor();
+                }
+
+                boxElement.appendChild(quadradoVermelho);
+            }
+
+            function getRamdonColor() {
+                let letters = "012345678constEF";
+                let color = "#";
+                for (let index = 0; index < 6; index++) {
+                    color += letters[Math.floor(Math.random() * 16)];
+                } 
+                return color; 
+
+            }
+        </script>
+    </body>
+</html>
