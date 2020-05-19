@@ -2,6 +2,10 @@
     <img alt="Starter" title="Curso Starter de JavaScript" src="imagens/logo-javascript.svg" width="200px" />
 </h1>
 
+<h3 align="center">
+  Curso Starter de JavaScript
+</h3>
+
 # Curso Starter de JavaScript
 
 https://station.rocketseat.com.br/courses/starter
