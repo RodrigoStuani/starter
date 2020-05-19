@@ -8,7 +8,7 @@
 
 <p align="center">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodrigostuani/Javascript-Rocketseat?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodrigostuani/stater?color=%2304D361">
 
   <a href="https://www.linkedin.com/in/rodrigo-stuani/">
     <img alt="Made by RodrigoStuani" src="https://img.shields.io/badge/made%20by-RodrigoStuani-%2304D361">
