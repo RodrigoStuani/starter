@@ -17,11 +17,11 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
   
   <a>
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigostuani/Javascript-Rocketseat.svg">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigostuani/starter.svg">
   </a>
   
-  <a href="https://github.com/danielobara/Javascript-Rocketseat/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielobara/Javascript-Rocketseat.svg">
+  <a href="https://github.com/rodrigostuani/starter/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigostuani/starter.svg">
   </a>   
 </p>
 
