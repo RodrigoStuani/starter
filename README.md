@@ -25,7 +25,38 @@
   </a>   
 </p>
 
-# Curso Starter de JavaScript
+## <a name="indice">Índice</a>
+
+1. [Introdução JavaScript](#parte1)     
+2. [Trabalhando com a DOM](#parte2)
+3. [App de TODOS](#parte3)
+4. [Js assíncrono](#parte4)
+---
+
+
+## <a name="parte1">1 - Módulo introdutório ao javascript - Execicios ( desafio )</a>
+
+:one:** exercício** :pencil:
+
+Crie uma função que dado o objeto a seguir:
+
+```
+var endereco = {
+		rua: "Rua dos pinheiros",
+		numero: 1293,
+		bairro: "Centro",
+		cidade: "São Paulo",
+		uf: "SP"
+};
+```
+
+Retorne o seguinte conteúdo:
+
+`O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com nº 1293.`
+
+[Voltar ao Índice](#indice)
+
+---   
 
 https://station.rocketseat.com.br/courses/starter
 
