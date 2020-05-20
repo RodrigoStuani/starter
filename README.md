@@ -25,6 +25,8 @@
   </a>   
 </p>
 
+<a href="https://station.rocketseat.com.br/courses/starter">Curso starter 0800 da Rocketseat ! Bora codar </a> 
+
 ## <a name="indice">Índice</a>
 
 1. [Introdução JavaScript](#parte1)     
@@ -34,7 +36,7 @@
 ---
 
 
-## <a name="parte1">1 - Módulo introdutório ao javascript - Execicios ( desafio )</a>
+## <a name="parte1">1 - Módulo introdutório ao javascript - Exercícios do desafio </a>
 
 :one:** exercício** :pencil:
 
@@ -54,12 +56,10 @@ Retorne o seguinte conteúdo:
 
 `O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com nº 1293.`
 
+<a href="https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio01.html">Resultado do primeiro exercício do desafio</a> :check: 
+
 [Voltar ao Índice](#indice)
 
 ---   
-
-https://station.rocketseat.com.br/courses/starter
-
-Curso starter 0800 da Rocketseat ! Bora codar 
 
 Adicinado conteudo no readme.md
