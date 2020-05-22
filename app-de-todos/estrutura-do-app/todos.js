@@ -1,1 +1,1 @@
-alert('Estrutura js comunicando!')
+alert('Estrutura js comunicando!');
