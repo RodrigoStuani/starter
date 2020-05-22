@@ -1,0 +1,1 @@
+alert('Estrutura js comunicando!')
