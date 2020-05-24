@@ -17,7 +17,7 @@ function renderTodos() {
         linkElement.setAttribute('href', '#');
         let pos = todos.indexOf(todo);
         linkElement.setAttribute('onclick', 'deleteTodo(' + pos + ')');
-        let linkText = document.createTextNode('Excluir')
+        let linkText = document.createTextNode(' Excluir')
         
         linkElement.appendChild(linkText)        
         todoElement.appendChild(todoText);
@@ -39,7 +39,7 @@ function addTodo() {
 
 buttonElement.onclick = addTodo;
 
-function deleteTodo(pos) {
-    todos.splice(0, 1);
-    renderTodos();
+function deleteTodo(pos) { // passa a posiçao do array para deletar o texto.
+    todos.splice(pos, 1); // função que remove ou adiciona elemento na posição escolhida.
+    renderTodos(); // renderiza os itens após deletar.
 }
