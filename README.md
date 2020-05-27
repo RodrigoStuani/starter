@@ -150,6 +150,18 @@ com um separador utilize o [join](https://developer.mozilla.org/pt-BR/docs/Web/J
 
 ---
 
+## <a name="parte2">2 - Módulo de manipulação da DOM - Exercícios do desafio </a>
+
+:one: **exercício** :pencil:
+
+Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
+vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
+aparecer na tela.
+
+<a href="https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio01.html">Resultado do primeiro exercício do desafio</a>  ✔️ 
+
+---
+
 # :closed_book: License
 
 Released in 2020.
