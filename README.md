@@ -152,7 +152,7 @@ com um separador utilize o [join](https://developer.mozilla.org/pt-BR/docs/Web/J
 
 # :closed_book: License
 
-Released in 2019.
-This project is under the [MIT license](https://github.com/RodrigoStuani/starter/master/LICENSE).
+Released in 2020.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 Made with love by [Rodrigo Stuani](https://github.com/RodrigoStuani) 💙 🚀
