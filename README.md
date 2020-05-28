@@ -56,7 +56,7 @@ Retorne o seguinte conteúdo:
 
 `O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com nº 1293.`
 
-<a href="https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio01.html">Resultado do primeiro exercício do desafio</a>  ✔️ 
+Resultado do [primeiro](https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio01.html) exercício do desafio ✔️
 
 ---
 
@@ -71,7 +71,7 @@ function pares(x, y) {
 pares(32, 321);
 ```
 
-<a href="https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio02.html">Resultado do segundo exercício do desafio</a>  ✔️
+Resultado do [segundo](https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio02.html) exercício do desafio ✔️
 
 ---   
 
@@ -90,7 +90,7 @@ temHabilidade(skills); // true ou false
 
 *Dica: para verificar se um vetor contém um valor, utilize o método [indexOf](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf).*
 
-<a href="https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio03.html">Resultado do terceiro exercício do desafio</a>  ✔️
+Resultado do [terceiro](https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio03.html) exercício do desafio ✔️
 
 ---
 
@@ -113,7 +113,8 @@ experiencia(anosEstudo);
 
 ```
 
-<a href="https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio04.html">Resultado do quarto exercício do desafio</a>  ✔️
+Resultado do [quarto](https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio04.html) exercício do desafio ✔️
+
 
 ---
 
@@ -144,7 +145,7 @@ O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
 *Dica: Para percorrer um vetor você deve utilizar a sintaxe [for...of](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for...of) e para unir valores de um array
 com um separador utilize o [join](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/join).* 
 
-<a href="https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio05.html">Resultado do quinto exercício do desafio</a>  ✔️
+Resultado do [quinto](https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio05.html) exercício do desafio ✔️
 
 [Voltar ao Índice](#indice)
 
@@ -158,7 +159,9 @@ Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de u
 vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
 aparecer na tela.
 
-<a href="https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio01.html">Resultado do primeiro exercício do desafio</a>  ✔️ 
+Resultado do [primeiro](https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio01.html) exercício do desafio ✔️ 
+
+[Voltar ao Índice](#indice)
 
 ---
 
