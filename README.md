@@ -199,8 +199,24 @@ Preencha uma lista ( <'ul'> ) no HTML com os itens da seguinte forma:
 
 Resultado do [terceiro](https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio03.html) exercício do desafio ✔️ 
 
-[Voltar ao Índice](#indice)
 
+---
+
+:four: **exercício** :pencil:
+
+Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:
+
+```
+<input type="text" name="nome">
+<button onClick="adicionar()">Adicionar</button>
+```
+
+Ao clicar no botão, a função adicionar() deve ser disparada adicionando um novo item a lista denomes baseado no nome preenchido no input e renderizando o novo item em tela juntos aos
+demais itens anteriores. Além disso, o conteúdo do input deve ser apagado após o clique.
+
+Resultado do [quarto](https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio04.html) exercício do desafio ✔️
+
+[Voltar ao Índice](#indice)
 
 ---
 
