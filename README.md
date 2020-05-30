@@ -191,10 +191,11 @@ A partir do seguinte vetor:
 var nomes = ["Diego", "Gabriel", "Lucas"];
 ```
 
-Preencha uma lista ( <ul> ) no HTML com os itens da seguinte forma:
-● Diego
-● Gabriel
-● Lucas
+Preencha uma lista ( <'ul'> ) no HTML com os itens da seguinte forma:
+
+  * Diego
+  * Gabriel
+  * Lucas
 
 Resultado do [terceiro](https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio03.html) exercício do desafio ✔️ 
 
