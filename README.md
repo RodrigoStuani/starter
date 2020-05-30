@@ -181,6 +181,22 @@ var newColor = getRandomColor(); // #E943F0
 
 Resultado do [segundo](https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio02.html) exercício do desafio ✔️ 
 
+---
+
+:three: **exercício** :pencil:
+
+A partir do seguinte vetor:
+
+```
+var nomes = ["Diego", "Gabriel", "Lucas"];
+```
+
+Preencha uma lista ( <ul> ) no HTML com os itens da seguinte forma:
+● Diego
+● Gabriel
+● Lucas
+
+Resultado do [terceiro](https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio03.html) exercício do desafio ✔️ 
 
 [Voltar ao Índice](#indice)
 
