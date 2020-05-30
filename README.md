@@ -115,7 +115,6 @@ experiencia(anosEstudo);
 
 Resultado do [quarto](https://github.com/RodrigoStuani/starter/blob/master/introduction-js/desafio01/exercicio04.html) exercício do desafio ✔️
 
-
 ---
 
 :five: **exercício** :pencil:
@@ -161,7 +160,30 @@ aparecer na tela.
 
 Resultado do [primeiro](https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio01.html) exercício do desafio ✔️ 
 
+---
+
+:two: **exercício** :pencil:
+
+Utilizando o resultado do primeiro desafio, toda vez que o usuário passar o mouse por cima de
+algum quadrado troque sua cor para uma cor aleatória gerada pela função abaixo:
+
+```
+function getRandomColor() {
+var letters = "0123456789ABCDEF";
+var color = "#";
+for (var i = 0; i < 6; i++) {
+color += letters[Math.floor(Math.random() * 16)];
+}
+return color;
+}
+var newColor = getRandomColor(); // #E943F0
+```
+
+Resultado do [segundo](https://github.com/RodrigoStuani/starter/blob/master/manipulando-a-DOM/desafio-exercicio02.html) exercício do desafio ✔️ 
+
+
 [Voltar ao Índice](#indice)
+
 
 ---
 
