@@ -218,6 +218,7 @@ Resultado do [quarto](https://github.com/RodrigoStuani/starter/blob/master/manip
 
 [Voltar ao Índice](#indice)
 
+
 ---
 
 # :closed_book: License
