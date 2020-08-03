@@ -38,7 +38,7 @@
 
 ## <a name="parte1">1 - Módulo introdutório ao javascript - Exercícios do desafio </a>
 
-:one: **exercício** :pencil:
+1° **exercício** :pencil:
 
 Crie uma função que dado o objeto a seguir:
 
@@ -60,7 +60,7 @@ Resultado do [primeiro](https://github.com/RodrigoStuani/starter/blob/master/int
 
 ---
 
-:two: **exercício** :pencil:
+2° **exercício** :pencil:
 
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 
@@ -75,7 +75,7 @@ Resultado do [segundo](https://github.com/RodrigoStuani/starter/blob/master/intr
 
 ---   
 
-:three: **exercício** :pencil:
+3° **exercício** :pencil:
 
 Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript"
 e retorna um booleano true/false caso exista ou não.
@@ -94,7 +94,7 @@ Resultado do [terceiro](https://github.com/RodrigoStuani/starter/blob/master/int
 
 ---
 
-:four: **exercício** :pencil:
+4° **exercício** :pencil:
 
 Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
 
