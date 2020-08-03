@@ -117,7 +117,7 @@ Resultado do [quarto](https://github.com/RodrigoStuani/starter/blob/master/intro
 
 ---
 
-:five: **exercício** :pencil:
+5° **exercício** :pencil:
 
 Dado o seguinte vetor de objetos:
 
@@ -152,7 +152,7 @@ Resultado do [quinto](https://github.com/RodrigoStuani/starter/blob/master/intro
 
 ## <a name="parte2">2 - Módulo de manipulação da DOM - Exercícios do desafio </a>
 
-:one: **exercício** :pencil:
+1° **exercício** :pencil:
 
 Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
 vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
@@ -162,7 +162,7 @@ Resultado do [primeiro](https://github.com/RodrigoStuani/starter/blob/master/man
 
 ---
 
-:two: **exercício** :pencil:
+2° **exercício** :pencil:
 
 Utilizando o resultado do primeiro desafio, toda vez que o usuário passar o mouse por cima de
 algum quadrado troque sua cor para uma cor aleatória gerada pela função abaixo:
@@ -183,7 +183,7 @@ Resultado do [segundo](https://github.com/RodrigoStuani/starter/blob/master/mani
 
 ---
 
-:three: **exercício** :pencil:
+3° **exercício** :pencil:
 
 A partir do seguinte vetor:
 
@@ -202,7 +202,7 @@ Resultado do [terceiro](https://github.com/RodrigoStuani/starter/blob/master/man
 
 ---
 
-:four: **exercício** :pencil:
+4° **exercício** :pencil:
 
 Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:
 
