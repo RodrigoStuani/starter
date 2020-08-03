@@ -226,4 +226,4 @@ Resultado do [quarto](https://github.com/RodrigoStuani/starter/blob/master/manip
 Released in 2020.
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-Made with love by [Rodrigo Stuani](https://github.com/RodrigoStuani) 💙 🚀
+❮❯ with 💙 by [Rodrigo Stuani](https://github.com/RodrigoStuani) 🚀
