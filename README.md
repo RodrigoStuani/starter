@@ -25,7 +25,7 @@
   </a>   
 </p>
 
-<a href="https://station.rocketseat.com.br/courses/starter">Curso starter 0800 da Rocketseat ! Bora codar </a> 
+<a href="https://www.rocketseat.com.br/discover">Curso starter 0800 da Rocketseat ! Bora codar </a> 
 
 ## <a name="indice">Índice</a>
 
